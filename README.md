@@ -16,12 +16,12 @@ This project focuses on the detection and segmentation of green areas in aerial 
 
 ### 2. Model Implementation
 
-- **UNet Model with EfficientNetB3**: Configuration and training of UNet with EfficientNetB3 as the backbone to improve precision and efficiency.
+- **U-Net Model with EfficientNetB3**: Configuration and training of U-Net with EfficientNetB3 as the backbone to improve precision and efficiency.
 - **Transfer Learning**: Utilization of pre-trained features to enhance the model's generalization capability.
 
 ### 3. Training and Evaluation
 
-- **Model Training**: Use the `train.ipynb` notebook to train the UNet model.
+- **Model Training**: Use the `train.ipynb` notebook to train the U-Net model.
 - **Metric Calculation**: Evaluation of the model with metrics such as precision, recall, and F1-score.
 - **Result Visualization**: Implementation of a function to visualize segmentation compared to the original masks.
 
@@ -34,11 +34,11 @@ This project focuses on the detection and segmentation of green areas in aerial 
 
 - `DataAugmentation.py`: Script for performing data augmentation on the dataset.
 - `DataGenerator.py`: Data generator for loading images and masks during training.
-- `Model.py`: Definition of the UNet model with EfficientNetB3 as the backbone.
+- `Model.py`: Definition of the U-Net model with EfficientNetB3 as the backbone.
 - `greenAreaCalculate.py`: Script for calculating the percentage of green area in segmented images.
 - `resize_and_delete_images.py`: Script for resizing and removing unnecessary images from the dataset.
 - `predict.ipynb`: Notebook for making predictions and visualizing results.
-- `train.ipynb`: Notebook for training the UNet model.
+- `train.ipynb`: Notebook for training the U-Net model.
 - `requirements.txt`: File containing project dependencies.
 - `best_model.weights.h5`: Weights of the best-trained model.
 - `image.jpg`: Example image from the dataset.
