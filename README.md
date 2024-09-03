@@ -2,7 +2,7 @@
 
 ## Description
 
-This project focuses on the detection and segmentation of green areas in aerial images captured by drones. It utilizes a semantic segmentation model based on UNet with transfer learning, using EfficientNetB3 as the backbone. The dataset consists of approximately 400 high-resolution images (6000x4000 pixels), captured from altitudes ranging from 5 to 30 meters. The images are available from the [Drone Dataset](http://dronedataset.icg.tugraz.at).
+This project focuses on the detection and segmentation of green areas in aerial images captured by drones. It utilizes a semantic segmentation model based on U-Net with transfer learning, using EfficientNetB3 as the backbone. The dataset consists of approximately 400 high-resolution images (6000x4000 pixels), captured from altitudes ranging from 5 to 30 meters. The images are available from the [Drone Dataset](http://dronedataset.icg.tugraz.at).
 
 ![image](https://github.com/user-attachments/assets/f01eb3d4-a149-4d3e-aba3-1297339171fc)
 
