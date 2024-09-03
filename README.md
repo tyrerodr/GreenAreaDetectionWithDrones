@@ -56,25 +56,25 @@ pip install -r requirements.txt
 
 This project was developed with contributions from:
 
-- **Ing. Bryan Paul Alava Calderón**  
+- **Eng. Bryan Paul Alava Calderón**  
   Faculty of Electrical and Computing Engineering (FIEC)  
   Escuela Superior Politécnica del Litoral - ESPOL  
   Guayaquil, Ecuador  
   [bpalava@espol.edu.ec](mailto:bpalava@espol.edu.ec)
 
-- **Ing. Paul del Pezo**  
+- **Eng. Paul del Pezo**  
   Faculty of Electrical and Computing Engineering (FIEC)  
   Escuela Superior Politécnica del Litoral - ESPOL  
   Guayaquil, Ecuador  
   [paudpez@espol.edu.ec](mailto:paudpez@espol.edu.ec)
 
-- **Ing. Aaron Villao**  
+- **Eng. Aaron Villao**  
   Faculty of Electrical and Computing Engineering (FIEC)  
   Escuela Superior Politécnica del Litoral - ESPOL  
   Guayaquil, Ecuador  
   [avillao@espol.edu.ec](mailto:avillao@espol.edu.ec)
 
-- **Ing. Tyrone Eduardo Rodriguez Motato**  
+- **Eng. Tyrone Eduardo Rodriguez Motato**  
   Faculty of Electrical and Computing Engineering (FIEC)  
   Escuela Superior Politécnica del Litoral - ESPOL  
   Guayaquil, Ecuador  
