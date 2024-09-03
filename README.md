@@ -16,6 +16,11 @@ This project focuses on the detection and segmentation of green areas in aerial 
   - **Normalization of Images**: Standardizing the images to ensure uniformity in brightness and contrast.
   - **Adjustment of Masks for Segmentation**: Using the [LabelMe-to-binary-image](https://github.com/samr28/labelme-to-binary-image) tool from GitHub, convert annotated images into binary images. This tool allows for the conversion of images annotated with LabelMe into binary masks based on the specified classes (`grass`, `vegetation`, `tree`, `bald-tree`), facilitating the identification of these areas for segmentation tasks.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f597758-fe3e-47f9-b2e6-b941ce95aec1" alt="Image 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/db9f86bf-0291-4f9a-9e78-2f1c90ec64bf" alt="Image 2" width="300"/>
+</p>
+
 ### 2. Model Implementation
 
 - **U-Net Model with EfficientNetB3**: Configuration and training of U-Net with EfficientNetB3 as the backbone to improve precision and efficiency.
@@ -31,6 +36,13 @@ This project focuses on the detection and segmentation of green areas in aerial 
 
 - **Green Area Percentage Calculation**: Estimation of the green area detected compared to the original masks.
 - **Comparison and Adjustments**: Comparison of results and adjustments to improve model precision.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8729aa2-0949-48b9-a0e0-f5eceee485f8" alt="Image 2" width="300"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b5dbd773-e64b-441d-a86c-da52b7690b86" alt="Image 1" width="300"/>
+</p>
 
 ## Project Files
 
