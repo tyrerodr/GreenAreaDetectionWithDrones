@@ -34,7 +34,7 @@ This project focuses on the detection and segmentation of green areas in aerial 
 
 ### 4. Result Analysis
 
-- **Green Area Percentage Calculation**: Estimation of the green area detected compared to the original masks.
+- **Green Area Percentage Calculation**: Estimation of the detected green area relative to the total number of pixels in the image.
 - **Comparison and Adjustments**: Comparison of results and adjustments to improve model precision.
 
 <p align="center">
