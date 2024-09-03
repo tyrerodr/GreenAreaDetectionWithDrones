@@ -12,7 +12,9 @@ This project focuses on the detection and segmentation of green areas in aerial 
 
 - **Image Collection**: High-resolution images obtained from the provided dataset.
 - **Mask Configuration**: Annotation of images with masks to identify green areas.
-- **Preprocessing**: Includes normalization of images and adjustment of masks for segmentation.
+- **Preprocessing**: 
+  - **Normalization of Images**: Standardizing the images to ensure uniformity in brightness and contrast.
+  - **Adjustment of Masks for Segmentation**: Using the [LabelMe-to-binary-image](https://github.com/samr28/labelme-to-binary-image) tool from GitHub, convert annotated images into binary images. This tool allows for the conversion of images annotated with LabelMe into binary masks, facilitating the identification of green areas for segmentation tasks.
 
 ### 2. Model Implementation
 
